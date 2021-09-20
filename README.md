@@ -12,7 +12,7 @@
 
 If you already have Python with pip installed, you can simply run:
 
-`pip -r requirements.txt`
+`pip install -r requirements.txt`
 
 
 ## Usage
